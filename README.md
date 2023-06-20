@@ -3,7 +3,7 @@
 2. In command prompt, go into the location of "D:\PythonVenv\AzureVision".
 3. In command prompt, type "scripts\activate".
 4. In command prompt (Azure Version), go into "D:\face_detection\face_detection".
-5. In command prompt (Azure Version), type "pip install -r requirements.txt". (For First Time)
+5. In command prompt (Azure Version), type "pip install -r requirements.txt". (if you are not the first-time user, please skip step 5.)
 6. In command prompt (Azure Version), type "python main.py". 
 
 # face_detection (Mac Version)
