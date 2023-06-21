@@ -7,4 +7,4 @@
 6. After you put the input video into "sourceVideo" folder, type "python main.py" in command prompt (Azure Version). 
 
 # face_detection (Mac Version)
-Please visit the instruction document in https://hot.comp.polyu.edu.hk/ website.
+Please visit the instruction document in https://hot.comp.polyu.edu.hk website.
