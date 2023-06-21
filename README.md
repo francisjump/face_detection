@@ -1,4 +1,4 @@
-# face_detection (Windows Version)
+# Students' Concentration Analysis with Face Detection Program (Windows Version)
 1. After downloading face_detection.zip, unzip it in the D-drive.
 2. In command prompt, go into the location of "D:\PythonVenv\AzureVision".
 3. In command prompt, type "scripts\activate".
@@ -6,5 +6,5 @@
 5. In command prompt (Azure Version), type "pip install -r requirements.txt". (if you are not the first-time user, please skip step 5.)
 6. After you put the input video into "sourceVideo" folder, type "python main.py" in command prompt (Azure Version). 
 
-# face_detection (Mac Version)
+# Students' Concentration Analysis with Face Detection Program (Mac Version)
 Please visit the instruction document in https://hot.comp.polyu.edu.hk website.
